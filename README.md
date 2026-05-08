@@ -61,6 +61,7 @@ webroot/
 │   ├── ico/                  # Favicon and icons
 │   ├── app.php               # Frontend shell / access point of vault.php
 │   ├── index.php             # Home/login page
+│   ├── logout.php            # Deletion of active sessions
 │   ├── redirect.php          # Redirects to app.php
 │   ├── sw.js                 # Service worker
 │   └── [other media files]
