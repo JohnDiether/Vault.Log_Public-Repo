@@ -1,0 +1,10 @@
+To execute this code successfully, the aws.phar bundle is required. This file contains the AWS SDK for PHP, which allows the script to communicate properly.
+
+Instructions:
+
+Download the latest aws.phar file.
+
+Ensure it is located in the same directory as your script (or update the require path accordingly).
+
+For official documentation, installation guides, and API references, please visit:
+https://aws.amazon.com/sdk-for-php/
